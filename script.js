@@ -3,7 +3,7 @@ let myNumber = 0
 // myNumber = parseInt(myNumber)
 function myFunction () {
   myNumber = document.getElementById('my-text').value
-  if (randomnumber === parseInt(myNumber))
+  if {(randomnumber === parseInt(myNumber))
     alert('Correct!')
-    else alert('Incorrect, try again.')
+  } else alert('Incorrect, try again.')
 }
