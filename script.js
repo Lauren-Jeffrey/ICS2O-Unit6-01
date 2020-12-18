@@ -5,5 +5,5 @@ function myFunction() {
   myNumber = document.getElementById('myText').value;
 if (randomnumber == parseInt(myNumber))
 alert('Correct!');
-else alert ('Incorrect')
+else alert ('Incorrect, try again.')
 }
