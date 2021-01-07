@@ -4,6 +4,6 @@ let myNumber = 0
 function myFunction () {
   myNumber = document.getElementById('my-text').value
   if (randomnumber === parseInt(myNumber)) {
-    alert('Correct!')} 
+    alert('Correct!') } 
   else alert('Incorrect, try again.')
 }
