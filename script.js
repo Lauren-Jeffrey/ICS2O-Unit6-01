@@ -6,7 +6,7 @@ function displayDate () {
   myNumber = document.getElementById('my-text').value
   if (randomnumber === parseInt(myNumber)) {
     alert('Correct!')
-  }
-  else {alert('Incorrect, try again.')
+  } else {
+    alert('Incorrect, try again.')
   }
 }
